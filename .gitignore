@@ -1,0 +1,13 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+.vscode
+dist
+node_modules/
+.vercel
+.netlify
+**/.DS_Store
