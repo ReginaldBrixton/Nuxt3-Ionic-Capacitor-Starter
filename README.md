@@ -17,7 +17,7 @@ This is a starter template for building cross-platform apps with Nuxt 3, Ionic, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nuxt3-ionic-capacitor-starter.git
+git clone https://github.com/reginaldbrixton/nuxt3-ionic-capacitor-starter.git
 ```
 
 2. Install dependencies:
